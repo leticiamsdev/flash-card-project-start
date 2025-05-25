@@ -12,8 +12,11 @@ Salva as palavras restantes em um arquivo words_to_learn.csv para continuar de o
 🚀Arquivos
 
 main.py (ou o nome do seu arquivo Python): O código principal do aplicativo.
+
 data/english.csv: O arquivo CSV original com as palavras em inglês e português.
+
 words_to_learn.csv: Gerado automaticamente, contém as palavras que você ainda precisa aprender.
+
 images/: Pasta contendo as imagens da interface do usuário.
 
 📝 Detalhes Técnicos
